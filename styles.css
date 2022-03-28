@@ -435,7 +435,7 @@
         rgba(0, 0, 0, 0) 0%,
         rgba(17, 17, 17, 0.6) 100%
         ),
-        url('/images/truck1.jpeg');
+        url("truck1.jpeg");
         background-size: cover;
         position: relative;
         color: #fff;
@@ -448,7 +448,7 @@
         rgba(0, 0, 0, 0) 0%,
         rgba(17, 17, 17, 0.6) 100%
         ),
-        url('/images/truck3.jpeg');
+        url("truck3.jpeg");
 }
 
 .services__card {
@@ -457,7 +457,7 @@
         rgba(0, 0, 0, 0) 0%,
         rgba(17, 17, 17, 0.6) 100%
         ),
-        url('/images/truck2.jpeg');
+        url("truck2.jpeg");
 }
 
 
